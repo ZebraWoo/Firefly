@@ -4,6 +4,7 @@ published: 2026-06-06
 description: '使用 deepseek-v4 模型配置 Claude Code，性价比拉满的 AI 编程方案'
 tags: [Claude Code, VS Code, DeepSeek, AI编程]
 category: 工具教程
+author: Matrix-Woo
 draft: false
 ---
 
